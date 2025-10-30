@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* GLOBAL STYLES */
+/* GLOBAL STYLES (mobile first/small) */
 
 body {
     font-family: var(--body-font);
